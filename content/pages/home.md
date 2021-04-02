@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ""
-title: Marta Serra, le Coeur et la Main
+title: Marta Serra, le Cœur et la Main
 featuredImage: https://ucarecdn.com/79fcb675-e211-43ef-b11c-b868449c9c1e/
 subtitle: Soins énergétiques, Qi Gong, Reiki, Shiatsu
 accordion:
@@ -29,7 +29,7 @@ accordion:
       gravida. Cras malesuada eros vel metus rhoncus placerat. "
 meta:
   description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  title: Marta Serra, le Cœur et la Main
 ---
 
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
