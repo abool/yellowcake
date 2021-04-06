@@ -31,23 +31,8 @@ meta:
   description: This is a meta description.
   title: Marta Serra, le Cœur et la Main
 ---
+# Qui suis je ?
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+![Marta SERRA](https://ucarecdn.com/d18ceabb-1ab7-4019-8ca7-df40c8347b53/-/preview/-/enhance/58/ "Marta SERRA")
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
-
-# Features
-
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+Suspendisse volutpat suscipit lectus, id rhoncus justo blandit et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean est orci, tempus nec est ac, varius auctor enim. Sed id vehicula ex, feugiat volutpat lacus. Quisque eget velit justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer finibus augue vitae velit faucibus tempor. Maecenas quis vestibulum mi. Suspendisse potenti. Nam hendrerit pharetra tellus. Quisque eu posuere sem. Morbi eu tortor ultricies, euismod enim tristique, mollis mauris.
