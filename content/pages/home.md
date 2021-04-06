@@ -33,6 +33,8 @@ meta:
 ---
 # Qui suis je ?
 
-![Marta SERRA](https://ucarecdn.com/d18ceabb-1ab7-4019-8ca7-df40c8347b53/-/preview/-/enhance/58/ "Marta SERRA")
+'<table><tr><td>'![Marta SERRA](https://ucarecdn.com/d18ceabb-1ab7-4019-8ca7-df40c8347b53/-/preview/-/enhance/58/ "Marta SERRA")'</td>
+<td>'
 
-Suspendisse volutpat suscipit lectus, id rhoncus justo blandit et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean est orci, tempus nec est ac, varius auctor enim. Sed id vehicula ex, feugiat volutpat lacus. Quisque eget velit justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer finibus augue vitae velit faucibus tempor. Maecenas quis vestibulum mi. Suspendisse potenti. Nam hendrerit pharetra tellus. Quisque eu posuere sem. Morbi eu tortor ultricies, euismod enim tristique, mollis mauris.
+Suspendisse volutpat suscipit lectus, id rhoncus justo blandit et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean est orci, tempus nec est ac, varius auctor enim. Sed id vehicula ex, feugiat volutpat lacus. Quisque eget velit justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer finibus augue vitae velit faucibus tempor. Maecenas quis vestibulum mi. Suspendisse potenti. Nam hendrerit pharetra tellus. Quisque eu posuere sem. Morbi eu tortor ultricies, euismod enim tristique, mollis mauris.'</td></tr>
+</table>'
