@@ -12,7 +12,7 @@ class Form extends React.Component {
     action: '',
     successMessage: 'Merci pour votre message, je reviens vers vous vite. A bientôt',
     errorMessage:
-      'Il y a eu un problème lors de l''envoi'
+      'Il y a eu un problème lors de l\'envoi'
   }
 
   state = {
@@ -135,7 +135,7 @@ class Form extends React.Component {
               <option disabled hidden>
                 Sujet
               </option>
-              <option>Demande dinfo</option>
+              <option>Demande d\'info</option>
               <option>Qi Gong</option>
               <option>Dire bonjour !</option>
             </select>
