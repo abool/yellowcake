@@ -77,7 +77,7 @@ class Form extends React.Component {
               <input
                 className="Form--Input Form--InputText"
                 type="text"
-                placeholder="Firstname"
+                placeholder="Prénom"
                 name="firstname"
                 required
               />
@@ -87,7 +87,7 @@ class Form extends React.Component {
               <input
                 className="Form--Input Form--InputText"
                 type="text"
-                placeholder="Lastname"
+                placeholder="Nom"
                 name="lastname"
                 required
               />
@@ -100,7 +100,7 @@ class Form extends React.Component {
                 className="Form--RadioInput"
                 type="radio"
                 name="gender"
-                value="male"
+                value="homme"
                 defaultChecked
               />
               <span>Male</span>
@@ -110,7 +110,7 @@ class Form extends React.Component {
                 className="Form--RadioInput"
                 type="radio"
                 name="gender"
-                value="female"
+                value="femme"
               />
               <span>Female</span>
             </label>
@@ -133,11 +133,11 @@ class Form extends React.Component {
               required
             >
               <option disabled hidden>
-                Type of Enquiry
+                Sujet
               </option>
-              <option>Need to know more</option>
-              <option>Found a bug</option>
-              <option>Want to say hello</option>
+              <option>Demande dinfo</option>
+              <option>Qi Gong</option>
+              <option>Dire bonjour !</option>
             </select>
           </label>
           <label className="Form--Label">
