@@ -10,9 +10,9 @@ class Form extends React.Component {
     name: 'Simple Form Ajax',
     subject: '', // optional subject of the notification email
     action: '',
-    successMessage: 'Thanks for your enquiry, we will get back to you soon',
+    successMessage: 'Merci pour votre message, je reviens vers vous vite. A bientôt',
     errorMessage:
-      'There is a problem, your message has not been sent, please try contacting us via email'
+      'Il y a eu un problème lors de l''envoi'
   }
 
   state = {
