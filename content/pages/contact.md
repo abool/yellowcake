@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact & tarifs
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
+featuredImage: https://ucarecdn.com/988b0714-0a67-4a43-991a-fa20c2a19cc6/
 subtitle: Séances sur rendez-vous uniquement
 address: |-
   47 rue Jean CHARCOT
