@@ -33,8 +33,14 @@ meta:
 ---
 # Qui suis je ?
 
-'<table><tr><td>'![Marta SERRA](https://ucarecdn.com/d18ceabb-1ab7-4019-8ca7-df40c8347b53/-/preview/-/enhance/58/ "Marta SERRA")'</td>
-<td>'
+'<table><tr><td valign="top">'![Marta SERRA](https://ucarecdn.com/d18ceabb-1ab7-4019-8ca7-df40c8347b53/-/preview/-/enhance/58/ "Marta SERRA")'</td>
 
-Suspendisse volutpat suscipit lectus, id rhoncus justo blandit et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean est orci, tempus nec est ac, varius auctor enim. Sed id vehicula ex, feugiat volutpat lacus. Quisque eget velit justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer finibus augue vitae velit faucibus tempor. Maecenas quis vestibulum mi. Suspendisse potenti. Nam hendrerit pharetra tellus. Quisque eu posuere sem. Morbi eu tortor ultricies, euismod enim tristique, mollis mauris.'</td></tr>
+<td style="padding-left:50px;" valign="top">'
+
+
+
+*Que ce soit dans une séance ou lors des formations que je propose, je fais converger toutes mes connaissances dans une vision globale de la personne, considérant que ce sont des moments précieux qui vous permettent de vous connecter avec vous même. J'adore avoir ce goût de sacré que me laisse le fait d'avoir honoré la personne qui a posé sa confiance en moi depuis le profond de mon Coeur.*
+
+'</td></tr>
+
 </table>'
