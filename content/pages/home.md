@@ -37,9 +37,13 @@ meta:
 
 <td style="padding-left:50px;" valign="top">'
 
-
-
 *Que ce soit dans une séance ou lors des formations que je propose, je fais converger toutes mes connaissances dans une vision globale de la personne, considérant que ce sont des moments précieux qui vous permettent de vous connecter avec vous même. J'adore avoir ce goût de sacré que me laisse le fait d'avoir honoré la personne qui a posé sa confiance en moi depuis le profond de mon Coeur.*
+
+
+
+Rêveuse dans mon enfance de voyages lointains, j'ai initialement fait des études universitaires de Langue et Littérature Arabes et suis partie en Syrie pendant cinq magnifiques années où j'ai travaillé pour l'Ambassade Espagnole. Rentrée dans ma Catalogne natale, j'ai travaillé comme professeur de traduction à l'Université et comme traductrice, puis la vie m'a mené  en France où, pendant que je travaillais dans la gestion des projets culturels j'ai suivi une formation en Shiatsu, suivant le goût que j'avais toujours eu par la dimension énergétique du corps, le toucher et la compréhension spirituelle de l'Etre.
+
+*'<div style="width:250px; height:35px; background-color:#*00c2bd*; color: white; padding-top:5px" align="center">Voir la suite</div>'*
 
 '</td></tr>
 
