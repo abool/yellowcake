@@ -17,13 +17,20 @@ meta:
   description: This is a meta description.
   title: Contact & accès
 ---
+# TARIFS AU HAVRE (DEPUIS 2021):
 
-# Example contact form
+**\> Shiatsu, Reiki et/ou Qi gong :** 1h15 (prévoir 1h45 avec l'entretien): \
+**70€** (étudiants et chômeurs: 60€).\
+Forfait de **3 séances** (non nominatif, à utiliser dans les 3 mois depuis l'achat; facilités de payement si besoin): **195€** (soit 65€ la séance)
 
-This form is setup to use Netlify's form handling:
+**\> Séance à distance ou lecture énergétique:** **70€** (soin ou lecture + conseils )
 
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
+**\> Lecture énergétique + Talisman personnalisé** (voir onglet art comme exemple): **160€**
 
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+**\> Cours particuliers** Qi Gong (1h) (pour petits groupes me consulter):
+
+\> Cours à l'unité: **60€** - Forfait de 3 cours: **165€**
+
+**\> Formation** aux différents niveaux de Reiki: Initiation, Shoden (1), Okuden (2), Shinpiden (3). Me demander les tarifs et programme. Possible en visio via zoom pour l'initiation et le premier niveau.
+
+\> Accompagnement de **développement personnel:** Sortir d'un moment de crise personnelle ou professionnelle, trouver sa voie, se transformer, approfondir dans la connaissance de soi... Me consulter afin d'établir un programme personnalisé intégrant des soins et/ou des séances de méditation et/ou Qi gong médical et/ou expression artistique et/ou initiation au Reiki.
