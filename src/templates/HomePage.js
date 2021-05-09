@@ -20,6 +20,11 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
         <Content source={body} />
       </div>
     </section>
+    <section className="section">
+      <div className="container">
+        3 blocs blog ici
+      </div>
+    </section>
   </main>
 )
 
