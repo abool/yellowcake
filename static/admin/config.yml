@@ -193,8 +193,7 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }
-                
-       - file: 'content/pages/art.md'
+      - file: 'content/pages/art.md'
         label: 'Art Page'
         name: 'art-page'
         fields:
