@@ -38,6 +38,9 @@ gallery:
   - alt: yellow ice cream
     image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
     title: Yellow Ice Cream
+  - image: https://ucarecdn.com/4d496d0b-5830-456e-ae63-3b861667817d/
+    alt: Shiatsu
+    title: Shiatsu
 meta:
   description: This is a meta description.
   title: Components Page
