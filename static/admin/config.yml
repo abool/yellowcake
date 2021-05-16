@@ -203,7 +203,7 @@ collections: # A list of collections the CMS should be able to edit
               widget: hidden,
               default: ArtPage,
             }
-          - { label: Slug, name: slug, widget: hidden, default: 'art' }
+          - { label: Slug, name: slug, widget: string, default: 'art' }
           - { label: Title, name: title, widget: string }
           - { label: Featured Images, name: featuredImage, widget: image }
           - { label: Subtitle, name: subtitle, widget: markdown }
