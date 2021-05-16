@@ -3,7 +3,7 @@ template: ArtPage
 slug: art
 title: L'art
 featuredImage: https://ucarecdn.com/1e8f04d6-b9c6-4bc1-b09b-706589c518f3/
-subtitle: L'art soigne aussi
+subtitle: L'art soigne aussi modif
 section1: >-
   ## TALISMANS
 
