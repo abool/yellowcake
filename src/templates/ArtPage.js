@@ -75,7 +75,7 @@ const ArtPage = ({ data: { page } }) => (
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
-    <ComponentsPageTemplate {...page} {...page.frontmatter} body={page.html} />
+    <ArtPageTemplate {...page} {...page.frontmatter} body={page.html} />
   </Layout>
 )
 
