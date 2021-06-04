@@ -41,7 +41,7 @@ gallery2:
 video: https://ucarecdn.com/beb3d80b-08f4-4546-98c2-8e447b1f6bf0/
 videoPoster: https://ucarecdn.com/6a2a3762-750b-46e2-a807-79522efebad5/
 videoTitle: Peinture
-section3:>-
+section3: >-
   ## CERCLES - L'Univers ENSOi
 
 
