@@ -54,4 +54,5 @@ videoPoster: https://ucarecdn.com/6a2a3762-750b-46e2-a807-79522efebad5/
 videoTitle: Peinture
 meta:
   title: Art
+  description: L'art soigne aussi !
 ---
