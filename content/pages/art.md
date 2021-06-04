@@ -19,18 +19,7 @@ section1: >-
 
 
   Commander son propre Talisman après une lecture énergétique personnalisée ou s'en procurer un de déjà existant qui vous interpelle et vous fait du bien. On précise tout quand vous me contactez, modalité et tarif, et si on est loin géographiquement je vous l'envoie.
-section2: >-
-  ## CERCLES - L'Univers ENSOi
-
-
-  Le temps d'un inspir, le temps d'un expir... Le présent et le geste.
-
-
-  Si vous souhaitez un Enso avec un mot-concept précis je suis prête à vous tracer le cercle.
-video: https://ucarecdn.com/beb3d80b-08f4-4546-98c2-8e447b1f6bf0/
-videoPoster: https://ucarecdn.com/6a2a3762-750b-46e2-a807-79522efebad5/
-videoTitle: Peinture
-gallery:
+gallery1:
   - image: https://ucarecdn.com/ce51f358-0c4a-41d1-be4b-c89d77ad6ece/
     alt: Talisman
     title: Talisman
@@ -40,4 +29,19 @@ gallery:
   - image: https://ucarecdn.com/7096dbb7-2276-461c-a316-d6af61fe036f/
     alt: Talisman3
     title: Talisman3
+section2: >-
+  ## CERCLES - L'Univers ENSOi
+
+
+  Le temps d'un inspir, le temps d'un expir... Le présent et le geste.
+
+
+  Si vous souhaitez un Enso avec un mot-concept précis je suis prête à vous tracer le cercle.
+gallery2:
+video: https://ucarecdn.com/beb3d80b-08f4-4546-98c2-8e447b1f6bf0/
+videoPoster: https://ucarecdn.com/6a2a3762-750b-46e2-a807-79522efebad5/
+videoTitle: Peinture
+section3:
+gallery3:
+
 ---
