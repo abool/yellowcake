@@ -15,13 +15,15 @@ export const ArtPageTemplate = ({
   subtitle,
   featuredImage,
   section1,
+  gallery1,
   section2,
+  gallery2,
+  section3,
+  gallery3,
   video,
   videoPoster,
   videoTitle,
-  accordion,
-  body,
-  gallery
+  body
 }) => (
   <main>
     <PageHeader
@@ -38,13 +40,20 @@ export const ArtPageTemplate = ({
     <section className="section">
       <div className="container">
         <h2>Découvrir les Talismans</h2>
-        <Gallery images={gallery} />
+        <Gallery images={gallery1} />
       </div>
     </section>
 
     <section className="section">
       <div className="container">
         <Content source={section2} />
+      </div>
+    </section>
+
+    <section className="section">
+      <div className="container">
+        <h2>Découvrir les Cercles</h2>
+        <Gallery images={gallery2} />
       </div>
     </section>
 
@@ -56,7 +65,14 @@ export const ArtPageTemplate = ({
 
     <section className="section">
       <div className="container">
-        <Accordion items={accordion} />
+        <Content source={section3} />
+      </div>
+    </section>
+
+    <section className="section">
+      <div className="container">
+        <h2>Découvrir les Lumières</h2>
+        <Gallery images={gallery3} />
       </div>
     </section>
 
@@ -94,13 +110,10 @@ export const pageQuery = graphql`
         featuredImage
         section1
         section2
+        section3
         video
         videoPoster
         videoTitle
-        accordion {
-          title
-          description
-        }
       }
     }
   }
