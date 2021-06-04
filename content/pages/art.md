@@ -3,7 +3,7 @@ template: ArtPage
 slug: art
 title: L'art
 featuredImage: https://ucarecdn.com/1e8f04d6-b9c6-4bc1-b09b-706589c518f3/
-subtitle: L'art soigne aussi modif
+subtitle: L'art soigne aussi
 section1: >-
   ## TALISMANS
 
@@ -29,7 +29,7 @@ section2: >-
   Si vous souhaitez un Enso avec un mot-concept précis je suis prête à vous tracer le cercle.
 video: https://ucarecdn.com/beb3d80b-08f4-4546-98c2-8e447b1f6bf0/
 videoPoster: https://ucarecdn.com/6a2a3762-750b-46e2-a807-79522efebad5/
-videoTitle: Painture
+videoTitle: Peinture
 gallery:
   - image: https://ucarecdn.com/ce51f358-0c4a-41d1-be4b-c89d77ad6ece/
     alt: Talisman
