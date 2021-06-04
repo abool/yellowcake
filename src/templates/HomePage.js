@@ -25,30 +25,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
         3 blocs blog ici
       </div>
     </section>
-    <section class="section">
-                  <div class="container">
-                    <div class="PostSection">
-                      <div class="PostSection--Grid">
-
-
-                        <a class="PostCard " href="/posts/lart-soigne-aussi/">
-                          <div class="PostCard--Image relative">
-                            <div class="BackgroundImage" style="background-image:url(https://ucarecdn.com/99ec26b4-a7d1-4cd9-8a86-098c650de5d4/-/progressive/yes/-/format/auto/-/resize/10x/);background-size:cover">
-                              <div class="true LazyImage BackgroundImage absolute  faded" style="background-image:url(https://ucarecdn.com/99ec26b4-a7d1-4cd9-8a86-098c650de5d4/-/progressive/yes/-/format/auto/-/resize/10x/);background-size:cover">
-                              </div>
-                            </div>
-                          </div>
-                          <div class="PostCard--Content">
-                            <h3 class="PostCard--Title">L&#x27;ART SOIGNE AUSSI!</h3>
-                            <div class="PostCard--Category">Home</div>
-                            <div class="PostCard--Excerpt">Mes Talismans s&#x27;inspirent de la lecture énergétique d’une personne à un moment précis, d’un endroit ou d’un objet ou être vivant, et…</div>
-                          </div>
-
-                        </a>
-                      </div>
-                  </div>
-              </div>
-    </section>
+    
   </main>
 )
 
