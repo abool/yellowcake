@@ -253,3 +253,10 @@ h6 a:hover {
 .Home table td:first-child {
   width: 20%;
 }
+.DefaultPage table td {
+  padding: 15px;
+  vertical-align: top;
+}
+.DefaultPage table td:first-child {
+  width: 20%;
+}
