@@ -246,3 +246,10 @@ h6 a {
 h6 a:hover {
   background-color: #9914ee;
 }
+.Home table td {
+  padding: 15px;
+  vertical-align: top;
+}
+.Home table td:first-child {
+  width: 20%;
+}
