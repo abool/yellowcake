@@ -41,14 +41,10 @@ gallery2:
   - image: https://ucarecdn.com/2736e5bf-523c-48ec-aac7-61c2415638d3/
     alt: title
     title: titre ici
-section3: >-
-  ## CERCLES - L'Univers ENSOi
+section3: |-
+  ## LUMIERES DE L'OMBRE
 
-
-  Le temps d'un inspir, le temps d'un expir... Le présent et le geste.
-
-
-  Si vous souhaitez un Enso avec un mot-concept précis je suis prête à vous tracer le cercle.
+  Yin, yang...
 gallery3:
   - image: https://ucarecdn.com/fe97a9a1-dcc7-4da8-a064-62f6a6598a05/
     alt: hjhjh
