@@ -4,7 +4,6 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content.js'
 import Layout from '../components/Layout.js'
-import Accordion from '../components/Accordion'
 import BackgroundVideo from '../components/BackgroundVideo'
 import Gallery from '../components/Gallery'
 import Popup from '../components/Popup'
@@ -76,13 +75,7 @@ export const ArtPageTemplate = ({
       </div>
     </section>
 
-    <section className="section">
-      <div className="container">
-        <Popup>
-          <Content source={section1} />
-        </Popup>
-      </div>
-    </section>
+    
   </main>
 )
 
