@@ -20,8 +20,7 @@ export const ArtPageTemplate = ({
   gallery3,
   video,
   videoPoster,
-  videoTitle,
-  body
+  videoTitle
 }) => (
   <main>
     <PageHeader
@@ -73,8 +72,6 @@ export const ArtPageTemplate = ({
         <Gallery images={gallery3} />
       </div>
     </section>
-
-    
   </main>
 )
 
