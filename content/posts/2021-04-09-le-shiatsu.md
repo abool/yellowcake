@@ -14,3 +14,5 @@ categories:
   - category: Home
 ---
 Idéalement préventif intégré dans une hygiène de vie, le shiatsu favorise la détente, aide à harmoniser le système nerveux et accroît la conscience corporelle de la personne, ce qui l’aide à renforcer son système d’autodéfense et lui permet de se reconnecter avec le plus profond de son être.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nNsWRaminTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
