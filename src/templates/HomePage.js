@@ -7,7 +7,7 @@ import Layout from '../components/Layout'
 import Accordion from '../components/3blocs'
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body, 3-blocs }) => (
+export const HomePageTemplate = ({ title, subtitle, featuredImage, body, blogblocks }) => (
   <main className="Home">
     <PageHeader
       large
@@ -53,7 +53,7 @@ export const pageQuery = graphql`
         title
         subtitle
         featuredImage
-        3-blocs {
+        blogblocks {
           title
           content
           image
