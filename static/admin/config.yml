@@ -292,7 +292,8 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - { label: 'Title', name: 'title', widget: 'string' }
               - { label: Content, name: content, widget: text }
-              
+              - { label: Image, name: image, widget: image }
+              - { label: Lien, name: lien, widget: 'string' }
           - label: 'Meta'
             required: false
             name: 'meta'
