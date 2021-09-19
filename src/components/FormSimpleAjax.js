@@ -94,27 +94,7 @@ class Form extends React.Component {
               <span>Nom</span>
             </label>
           </div>
-         <!-- <fieldset>
-            <label className="Form--Label Form--Radio">
-              <input
-                className="Form--RadioInput"
-                type="radio"
-                name="gender"
-                value="homme"
-                defaultChecked
-              />
-              <span>Homme</span>
-            </label>
-            <label className="Form--Label Form--Radio">
-              <input
-                className="Form--RadioInput"
-                type="radio"
-                name="gender"
-                value="femme"
-              />
-              <span>Femme</span>
-            </label>
-          </fieldset>-->
+         
           <label className="Form--Label">
             <input
               className="Form--Input Form--InputText"
@@ -158,10 +138,7 @@ class Form extends React.Component {
             />
             <span>Recevoir des news</span>
           </label>
-          <!--<div
-            className="g-recaptcha"
-            data-sitekey="6LfKN3kUAAAAAGIM1CbXmaRZx3LIh_W2twn1tzkA"
-          />-->
+          
           {!!subject && <input type="hidden" name="subject" value={subject} />}
           <input type="hidden" name="form-name" value={name} />
           <input
