@@ -286,7 +286,7 @@ collections: # A list of collections the CMS should be able to edit
               - { label: Image, name: Image, widget: image }
               - { label: Lien, name: Lein, widget: 'string' }
           - label: '3 blocs'
-            name: '3-blocs'
+            name: 'blogblocks'
             widget: 'list'
             required: false
             fields:
