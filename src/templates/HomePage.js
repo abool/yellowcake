@@ -24,7 +24,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, blogblo
     
     <section className="section">
       <div className="container">
-        <3blocs items={blogblocks} />
+        <blogblocks items={blogblocks} />
       </div>
     </section>
     
