@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
-import Accordion from '../components/blogblocks'
+import Blogblocks from '../components/blogblocks'
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({ title, subtitle, featuredImage, body, blogblocks }) => (
@@ -24,7 +24,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body, blogblo
     
     <section className="section">
       <div className="container">
-        <blogblocks items={blogblocks} />
+        <Blogblocks items={blogblocks} />
       </div>
     </section>
     
